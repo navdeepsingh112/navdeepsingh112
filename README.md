@@ -5,7 +5,9 @@ I'm Navdeep Singh Sidhu, a passionate software engineer based in Punjab, India. 
 
 
 
-## GitHub Stats
+
+
+Github Stats
 
 [![Navdeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=navdeepsingh112&theme=dark&show_icons=true)](https://github.com/navdeepsingh112)
 
